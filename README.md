@@ -16,9 +16,12 @@
 然後放入購物車，使用者可以刪除或更改購物的品項目。當使用者選購完商品後可把購物車中的商品一起下單結賬
 ，并且在下單的一個小時内可以取消訂單。
 
-##使用個案圖
+###使用個案圖
 ![使用個案圖](https://github.com/fusion-c/oose_0424301/blob/master/%E4%BD%BF%E7%94%A8%E5%80%8B%E6%A1%88%E5%9C%96.jpg)
 
-##系統介面
+###系統介面
 ![系統介面](https://github.com/fusion-c/oose_0424301/blob/master/%E7%B3%BB%E7%B5%B1%E4%BB%8B%E9%9D%A2%E5%9C%96.jpg)
+
+###網站架構
+![網站架構](https://github.com/fusion-c/oose_0424301/blob/master/%E7%B6%B2%E7%AB%99%E6%9E%B6%E6%A7%8B.png)
 
