@@ -19,9 +19,12 @@
 ###使用個案圖
 ![使用個案圖](https://github.com/fusion-c/oose_0424301/blob/master/user_case.png)
 
+###强韌圖
+![使用個案圖](https://github.com/fusion-c/oose_0424301/blob/master/Robustness.png)
+
 ###系統介面
 ![系統介面](https://github.com/fusion-c/oose_0424301/blob/master/%E7%B3%BB%E7%B5%B1%E4%BB%8B%E9%9D%A2%E5%9C%96.jpg)
 
-###網站架構
+###UI架構
 ![網站架構](https://github.com/fusion-c/oose_0424301/blob/master/%E7%B6%B2%E7%AB%99%E6%9E%B6%E6%A7%8B.png)
 
