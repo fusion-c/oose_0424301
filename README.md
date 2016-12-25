@@ -17,7 +17,7 @@
 ，并且在下單的一個小時内可以取消訂單。
 
 ###使用個案圖
-![使用個案圖](https://github.com/fusion-c/oose_0424301/blob/master/user_care.png)
+![使用個案圖](https://github.com/fusion-c/oose_0424301/blob/master/user_case.png)
 
 ###系統介面
 ![系統介面](https://github.com/fusion-c/oose_0424301/blob/master/%E7%B3%BB%E7%B5%B1%E4%BB%8B%E9%9D%A2%E5%9C%96.jpg)
