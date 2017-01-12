@@ -1,11 +1,11 @@
 第二組
 ======
-**The Captain: ---> 
+**The Captain: --->
 資管4C 0424301 陳浩朗**
 
 ***The Members: --->
-資管4C 0424302 何振良 | 
-資管4C 0424303 梁偉文 | 
+資管4C 0424302 何振良 |
+資管4C 0424303 梁偉文 |
 資管4C 0424304 游耀華***
 
 - - -
@@ -28,7 +28,5 @@
 ###UI架構
 ![UI架構](https://github.com/fusion-c/oose_0424301/blob/master/%E7%B6%B2%E7%AB%99%E6%9E%B6%E6%A7%8B.png)
 
-###系統介面
-![系統介面](https://github.com/fusion-c/oose_0424301/blob/master/%E7%B3%BB%E7%B5%B1%E4%BB%8B%E9%9D%A2%E5%9C%96.jpg)
 
 
