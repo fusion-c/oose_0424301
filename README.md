@@ -7,7 +7,10 @@
 資管4C 0424302 何振良 |
 資管4C 0424303 梁偉文 |
 資管4C 0424304 游耀華***
-
+- - -
+###分工狀況
++ 陳浩朗 游耀華：系統的分析與設計、資料庫設計、後端程式編寫
++ 梁偉文 何振梁：前端設計與製作、資料搜集與整理
 - - -
 ##專題簡介
 
@@ -28,5 +31,8 @@
 ###UI架構
 ![UI架構](https://github.com/fusion-c/oose_0424301/blob/master/%E7%B6%B2%E7%AB%99%E6%9E%B6%E6%A7%8B.png)
 
+###類別圖
+![類別圖](https://github.com/fusion-c/oose_0424301/blob/master/class.png)
 
-
+###圖元件
+![元件圖](https://github.com/fusion-c/oose_0424301/blob/master/Component.png)元件元件
