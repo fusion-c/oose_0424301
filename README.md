@@ -34,5 +34,5 @@
 ###類別圖
 ![類別圖](https://github.com/fusion-c/oose_0424301/blob/master/class.png)
 
-###圖元件
-![元件圖](https://github.com/fusion-c/oose_0424301/blob/master/Component.png)元件元件
+###元件圖
+![元件圖](https://github.com/fusion-c/oose_0424301/blob/master/Component.png)
